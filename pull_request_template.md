@@ -1,6 +1,6 @@
 # Se você chegou ate aqui esta indo muito bem :tada:
 
-Essa é uma área importante. Aqui seu time ou empresa pode fazer expecificaçes para que você peencha antes de criar o commit,
+Essa é uma área importante. Aqui seu time ou empresa pode fazer expecificaçes para que você preencha antes de criar o commit,
 como Task Lists:
 
 Para enviar esse pull request, tenha em mente que cumpriu os seguintes requisitos:
