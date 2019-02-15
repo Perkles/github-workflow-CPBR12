@@ -78,4 +78,4 @@ Agora vamos pedir permissão para que o código que escrevemos em nossa branch p
 
 ## 04 - Merging
 
-Após a analize de seu código, se tudo estiver conforme as regras internas da empresa, time e seu código não quebra nada (por em quanto) você tem o sinal verdade e *ai sim* seu código é encorporado a `master`.
+Após a analize de seu código, se tudo estiver conforme as regras internas do time e seu código não quebra nada (por em quanto) você tem o sinal verdade e *ai sim* seu código é encorporado a `master`.
