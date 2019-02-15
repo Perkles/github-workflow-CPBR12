@@ -9,4 +9,6 @@ Para enviar esse pull request, tenha em mente que cumpriu os seguintes requisito
 - [ ] Fiz algumas alteraçes no arquivo **cacilds.md**
 - [ ] Eu não sou um *espirito de porco* e não deletei nenhum arquivo.
 
+Você também pode usar tags diferentes informando as diferentes intençes que você tem com o código, além de marcar pessoas para analizar seu trabalho.
+
 
