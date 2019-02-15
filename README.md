@@ -72,10 +72,10 @@ Observe aqui que você esta enviando as alteraçes para a branch `umNomeSignific
 
 ## 03 - Abrindo um Pull Request
 
-Agora vamos pedir permissão para que o código que escrevemos em nossa branch possa ser incorporado a `master` e é aqui que as coisas ficam interessantes.
+Agora vamos pedir permissão para que o código que escrevemos em nossa branch possa ser incorporado a `master` e é aqui que as coisas ficam interessantes. Para isso acesse a página do github onde o projeto esta e clique em `Compare & pull request`
 
-É nessa hora que seu código é [analizado por outros desenvolvedores](https://medium.com/equals-lab/a-importancia-do-code-review-para-a-equipe-de-desenvolvimento-de-software-a47b70cb1560), é nessahora que você pode pedir ajuda a algum amigo mais experiente e também essa é uma boa hora para auto critica do que você escreve de código em seu dia a dia. 
+É nessa hora que seu código é [analizado por outros desenvolvedores](https://medium.com/equals-lab/a-importancia-do-code-review-para-a-equipe-de-desenvolvimento-de-software-a47b70cb1560), é nessa hora que você pode pedir ajuda a algum amigo mais experiente e também essa é uma boa hora para auto critica do que você escreve de código em seu dia a dia. 
 
 ## 04 - Merging
 
-Após a analiza de seu código, se tudo estiver nos conformes com as regras internas da empresa, do seu time e se seu código não quebra nada (por em quanto) você tem o sinal verdade e *ai sim* seu código é encorporado a `master`.
+Após a analize de seu código, se tudo estiver conforme as regras internas da empresa, time e seu código não quebra nada (por em quanto) você tem o sinal verdade e *ai sim* seu código é encorporado a `master`.
