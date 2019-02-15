@@ -1,7 +1,6 @@
 ![Image of Yaktocat](https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/git-and-git-hub-basics/work-with-the-git-hub-workflow/images/17cdcf6d5135213b505e04eb6c7be614_4-collaborate.png)
 
 # GitHub Workflow - CPBR12
--------------------------------------
 
 Bem vindo ao nosso workshop de [Github Workflow](https://guides.github.com/introduction/flow/) hoje vamos aprender na prática como funciona o fluxo colaborativo de trabalho em programação utilizando o github. 
 
@@ -71,4 +70,12 @@ git push origin umNomeSignificativo
 
 Observe aqui que você esta enviando as alteraçes para a branch `umNomeSignificativo` e não para a `master`.
 
+## 03 - Abrindo um Pull Request
 
+Agora vamos pedir permissão para que o código que escrevemos em nossa branch possa ser incorporado a `master` e é aqui que as coisas ficam interessantes.
+
+É nessa hora que seu código é [analizado por outros desenvolvedores](https://medium.com/equals-lab/a-importancia-do-code-review-para-a-equipe-de-desenvolvimento-de-software-a47b70cb1560), é nessahora que você pode pedir ajuda a algum amigo mais experiente e também essa é uma boa hora para auto critica do que você escreve de código em seu dia a dia. 
+
+## 04 - Merging
+
+Após a analiza de seu código, se tudo estiver nos conformes com as regras internas da empresa, do seu time e se seu código não quebra nada (por em quanto) você tem o sinal verdade e *ai sim* seu código é encorporado a `master`.
