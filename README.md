@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/git-and-git-hub-basics/work-with-the-git-hub-workflow/images/17cdcf6d5135213b505e04eb6c7be614_4-collaborate.png)
+![Ohhhhhh](https://media.giphy.com/media/TcdpZwYDPlWXC/giphy.gif)
 
 # GitHub Workflow - CPBR12
 
