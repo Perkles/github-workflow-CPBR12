@@ -1,9 +1,5 @@
 Mussum Ipsum, cacilds vidis litro abertis. Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget. Quem num gosta di mim que vai caçá sua turmis! Admodum accumsan disputationi eu sit. Vide electram sadipscing et per. Leite de capivaris, leite de mula manquis sem cabeça.
 
-Quem num gosta di mé, boa gentis num é. Si num tem leite então bota uma pinga aí cumpadi! Copo furadis é disculpa de bebadis, arcu quam euismod magna. Atirei o pau no gatis, per gatis num morreus.
-
-Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Quem manda na minha terra sou euzis! Diuretics paradis num copo é motivis de denguis. A ordem dos tratores não altera o pão duris.
-
 Interagi no mé, cursus quis, vehicula ac nisi. Em pé sem cair, deitado sem dormir, sentado sem cochilar e fazendo pose. Pra lá , depois divoltis porris, paradis. Cevadis im ampola pa arma uma pindureta.
 
 Nullam volutpat risus nec leo commodo, ut interdum diam laoreet. Sed non consequat odio. Detraxit consequat et quo num tendi nada. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis. Viva Forevis aptent taciti sociosqu ad litora torquent.
