@@ -1,4 +1,62 @@
-Mussum Ipsum, cacilds vidis litro abertis. Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget. Quem num gosta di mim que vai caçá sua turmis! Admodum accumsan disputationi eu sit. Vide electram sadipscing et per. Leite de capivaris, leite de mula manquis sem cabeça.
+Mussum Ipsum, cacilds vidis litro abertis. Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget. Quem num gosta di mim que vai caçá 
+
+# Acessem meus projetos open-source em [meu github](https://github.com/BrianLima)
+
+sua turmis! Admodum accumsan disputationi eu sit. Vide electram sadipscing et per. Leite de capivaris, leite de mula manquis sem cabeça.
+
+
+### in memmory of Pink Guy, Pink Omega, Papa Franku.
+
+*
+Ah ah ah, *** yaritai na
+Ah kimochi na
+Ah *** kimochi na
+Boku wa *** daisuki
+Itsumo *** mainichi yaritai ***
+Chinko o manko ni iretai na
+Ah kimochii na iretai
+Hanaji ga deru hodo ii
+Manko wa kimochii
+Nuru nuru shite ii
+Purun purun moshi moshi? (*** please)
+Boku wa sekлusu ga daisuki chinko ga katai
+I ravu ***, I ravu you
+Demo yappari manko ga ichiban nuru nuru
+Mainichi iretai na
+Ketsu no ana ni mo iretai kamo shirenai na
+I love *** evury day (***)
+Boku wa *** daisuki, ichiban daisuki
+*** yaritai na
+Sukoshidake manko wo peropero (***)
+Sukoshidake manko wo peropero (***)
+Sukoshidake manko wo peropero (***)
+Sukoshidake manko wo peropero (***)
+Boku wa *** daisuki
+Itsumo *** mainichi yaritai ***
+Chinko o manko ni iretai na
+Ah kimochii na iretai
+Boku wa famirii maato de tachiyomi mainichi
+***maji yaritai
+Give me ***, boku wa ***yaritai
+Namamugi namagome namahame
+Nakadashi nakadashi nakadashi daisuki
+Nakadashi nakadashi nakadashi daisuki
+Moshi moshi? (*** please)
+I ravu ***
+Moshi moshi? (*** please)
+I ravu ***
+Ore wa chinko o manko ni irete nuru nuru nuru nuru shitai dayo
+Nuru nuru nuru nuru oishi manko
+Nuru nuru oishi manko
+Boku wa *** daisuki
+Itsumo *** mainichi yaritai ***
+Chinko o manko ni iretai na
+Ah kimochii na iretai
+Boku wa *** daisuki
+Itsumo *** mainichi yaritai ***
+Chinko o mankoni iretai na
+Ah kimochii na iretai
+*
 
 Quem num gosta di mé, boa gentis num é. Si num tem leite então bota uma pinga aí cumpadi! Copo furadis é disculpa de bebadis, arcu quam euismod magna. Atirei o pau no gatis, per gatis num morreus.
 
